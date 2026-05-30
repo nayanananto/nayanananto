@@ -1,4 +1,4 @@
-![LeetCode](lc.png)
+[![LeetCode](lc.png)](https://leetcode.com/u/Amortal/)
 
 [GitHub](https://github.com/nayanananto) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Amortal) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ananto-nayan)
 
