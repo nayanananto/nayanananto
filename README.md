@@ -20,7 +20,7 @@ Ahsanullah University of Science and Technology, Dhaka, Bangladesh
 ### THESIS
 
 **Embedding-Driven Wind Forecasting with Semantic Tokenization, Phase Prediction, and Human-in-the-Loop Review**  
-*Ananto Nayan Bala*
+*Ananto Nayan Bala, et al.*
 
 A wind forecasting system built on NOAA/METAR data that combines LSTM-based speed prediction with compressed semantic representations of wind states. Wind conditions are tokenized into discrete phases, and a GRU model learns to predict upcoming regimes from those tokens. A Human-in-the-Loop interface lets domain experts review, correct, and confirm forecasts — keeping a human in the decision loop for high-stakes outputs. The system also retrieves historically similar wind states and supports live data feeds.
 
@@ -36,9 +36,9 @@ Treats the problem of deciding which AI agents to route a query to as a set-valu
 
 ---
 
-**Survey &nbsp;·&nbsp; Under review at ACL ARR 2026**  
+**Survey &nbsp;·&nbsp; Under review at EMNLP 2026**  
 **From Retrieval to Reasoning: Retrieval-Augmented Generation Architectures, Strategies, and Deployment Realities**  
-*Partha Sarker, Ananto Nayan Bala, Bappy Chandra Debnath, Raduan Ahmed*
+*Partha Sarker, Ananto Nayan Bala, et al.*
 
 A survey of 40 RAG systems organized not by benchmark rankings but by the design problems each generation of work set out to solve. Six evolutionary groups are identified — covering foundational retrieval architectures, context-window optimization, self-correcting pipelines, graph-based multi-hop reasoning, agentic and domain-specific variants, and efficiency-focused designs. The paper traces a causal thread through the field: what broke in earlier approaches, what insight fixed it, and what gap that fix left open.
 
@@ -68,8 +68,8 @@ A WEKA-based ML pipeline that takes raw URLs and decides whether they are phishi
 
 | Period | Award |
 |---|---|
-| Ongoing | **Problem Solving Excellence — LeetCode** · 1000+ Problems Solved · Top 8% Content Rating · 500+ submission days · 11 batch milestones |
-| Spring 25 / Fall 24 / Spring 24 / Spring 23 / Fall 22 | **Scholarship for outstanding academic performance** · Tuition waiver for demonstrated academic excellence |
+| Ongoing | **Competitive Programming & Problem Solving Excellence — LeetCode** · ~1000 Problems Solved · Top 8% Content Rating · 11 badges milestone, including the 500-day code submission badge. · Expert DSA mastery.  |
+| Fall 24 / Spring 24 / Spring 23 / Fall 22 | **Scholarship for outstanding academic performance** · Tuition waiver for demonstrated academic excellence |
 
 ---
 
