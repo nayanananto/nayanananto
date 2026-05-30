@@ -1,19 +1,19 @@
-# Ananto Nayan Bala
+![LeetCode](lc.png)
 
-**nayanananto** &nbsp;·&nbsp; nayan.ananto@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ananto-nayan) &nbsp;·&nbsp; [GitHub](https://github.com/nayanananto) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Amortal)
+[GitHub](https://github.com/nayanananto) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Amortal) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ananto-nayan)
 
 ---
 
 ### EDUCATION
 
 **Bachelor of Science, Computer Science & Engineering** &nbsp;·&nbsp; June 2022 – June 2026  
-Ahsanullah University of Science and Technology, Dhaka, Bangladesh &nbsp;·&nbsp; GPA 3.8 / 4.0
+Ahsanullah University of Science and Technology, Dhaka, Bangladesh 
 
 ---
 
 ### RESEARCH INTEREST
 
-`RAG` &nbsp; `Vector Embeddings and Semantic Search` &nbsp; `Compression` &nbsp; `Multi-Agent Systems` &nbsp; `LLM`
+`RAG` &nbsp; `Vector Embeddings` &nbsp; `Semantic Search` &nbsp; `Compression` &nbsp; `Multi-Agent Systems` &nbsp; `LLM`
 
 ---
 
