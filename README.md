@@ -6,7 +6,7 @@
 
 ### EDUCATION
 
-**Bachelor of Science, Computer Science & Engineering** &nbsp;·&nbsp; June 2022 – June 2026  
+**Bachelor of Science, Computer Science & Engineering** &nbsp;·&nbsp; May 2022 – June 2026  
 Ahsanullah University of Science and Technology, Dhaka, Bangladesh 
 
 ---
