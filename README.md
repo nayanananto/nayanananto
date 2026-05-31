@@ -1,6 +1,6 @@
 [![LeetCode](lc.png?v=2)](https://leetcode.com/u/Amortal/)
 
-## [My GitHub Repositories](https://github.com/nayanananto?tab=repositories) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Amortal) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ananto-nayan)
+## [My GitHub Repositories](https://github.com/nayanananto?tab=repositories) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Amortal) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ananto-nayan) &nbsp;·&nbsp; [Technical Writing](https://anayan.pythonanywhere.com/)
 
 ---
 
